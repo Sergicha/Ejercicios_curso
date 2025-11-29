@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.fila {
+    margin-bottom: 15px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input, select {
+    margin: 5px;
+    padding: 5px;
+}

@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.card {
+    display: inline-block;
+    background: white;
+    padding: 15px;
+    margin: auto;
+    text-align: left;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: #dd00ff;
+}
+
+p {
+    margin: 5px 0;
+    line-height: 1.4;
+}
+
+hr {
+    margin: 15px 0;
+}
